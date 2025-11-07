@@ -14,14 +14,9 @@ you can go to [here](things) if you want
 
 it's nice
 
+## 
 
-## Other things
-
-some other things I did (this is a mess)
-
-- a [cémantix-style web game](https://mantix.azureblue.me)
-
-- an online [timesup website](https://kgbtimesup.vercel.app/)
+You can check out my [projects](projects) 
 
 
 <br>

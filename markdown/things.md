@@ -15,9 +15,11 @@ some things I write
 ## Under Shivering Skies
 
 fragments from a world like ours, where the sky hums and magic lives quietly.
-
+<!-- 
 - [in-between the pages](shivering_skies/in_between_the_pages)
-- [by the lake](shivering_skies/by_the_lake)
+- [by the lake](shivering_skies/by_the_lake) -->
+
+todo
 
 
 ## small things

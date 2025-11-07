@@ -50,3 +50,20 @@ AI, a fun tool that will end us all
 # thinging
 
 # birds
+
+# programming a language
+
+the art of writing the tools we use to write stuff
+
+I am sure that most people who spends a little while coding will start to wonder how anyone could create the language they are using
+
+## Wonder
+
+## Demystification
+
+## So it's not impossible right?
+
+## Wow that's a lot
+
+## It doesn't need to be \[insert thing here\]
+dsl

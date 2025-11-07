@@ -19,6 +19,7 @@ def header(title, css_path, home_path):
         <div class="navbar">
             <a href="{home_path}/">home</a>
             <a href="{home_path}/projects">projects</a>
+            <a href="{home_path}/things">things</a>
             <a href="{home_path}/about">about</a>
         </div>
     </header>
